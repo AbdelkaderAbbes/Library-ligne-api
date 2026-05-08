@@ -299,7 +299,3 @@ All errors follow a consistent shape:
 | 500    | Internal server error                 |
 
 ---
-
-## License
-
-ISC
